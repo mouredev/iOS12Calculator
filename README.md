@@ -1,4 +1,4 @@
-# COMO crear una APP 🔢 CALCULADORA en Swift 4 con Xcode 10 e iOS 12 (Parte 1) | Español | MoureDev by Brais Moure
+# COMO crear una APP 🔢 CALCULADORA en Swift 4 con Xcode 10 e iOS 12 | Español | MoureDev by Brais Moure
 [![Xcode](https://img.shields.io/badge/Xcode-10.1-blue.svg?longCache=true&style=popout-square)]()
 [![Swift](https://img.shields.io/badge/Swift-4-orange.svg?longCache=true&style=popout-square)]()
 [![iOS](https://img.shields.io/badge/iOS-12.x+-lightgray.svg?longCache=true&style=popout-square)]()
