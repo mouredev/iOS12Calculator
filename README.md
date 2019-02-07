@@ -29,6 +29,7 @@ En este tutorial aprenderás a crear un app para iPhone y iPad desde cero:
 [![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/8z8u0Nw0VZI/0.jpg)](https://www.youtube.com/watch?v=8z8u0Nw0VZI)
 [![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 3) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/kG1W1ntDdhI/0.jpg)](https://www.youtube.com/watch?v=kG1W1ntDdhI)
 [![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 4) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/WRmNTxT5Kfk/0.jpg)](https://youtu.be/WRmNTxT5Kfk)
+[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 5) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/BKF_BoB-E8E/0.jpg)](https://youtu.be/BKF_BoB-E8E)
 
 ## Requisitos
 * [Xcode](https://developer.apple.com/xcode/) 10.1
