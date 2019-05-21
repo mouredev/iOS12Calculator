@@ -1,6 +1,6 @@
-# COMO crear una APP 🔢 CALCULADORA en Swift 4 con Xcode 10 e iOS 12 | Español | MoureDev by Brais Moure
-[![Xcode](https://img.shields.io/badge/Xcode-10.1-blue.svg?longCache=true&style=popout-square)]()
-[![Swift](https://img.shields.io/badge/Swift-4-orange.svg?longCache=true&style=popout-square)]()
+# COMO crear una APP 🔢 CALCULADORA en Swift 5 con Xcode 10 e iOS 12 | Español | MoureDev by Brais Moure
+[![Xcode](https://img.shields.io/badge/Xcode-10.2-blue.svg?longCache=true&style=popout-square)]()
+[![Swift](https://img.shields.io/badge/Swift-5-orange.svg?longCache=true&style=popout-square)]()
 [![iOS](https://img.shields.io/badge/iOS-12.x+-lightgray.svg?longCache=true&style=popout-square)]()
 
 **`¡HOLA HACKERMEN! 👋🏼`**
@@ -12,7 +12,7 @@ Soy Brais Moure, desarrollador de software freelance. Comparto tutoriales sobre 
 Si te interesa el desarrollo de apps **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Puedes hacerlo aquí 👈🏼](https://www.youtube.com/channel/UCxPD7bsocoAMq8Dj18kmGyQ?sub_confirmation=1)
 
 ## Descripción
-Tutorial en el que aprenderemos como crear una réplica de la app **"CALCULADORA"** de iOS 12 con Swift 4 y Xcode 10.
+Tutorial en el que aprenderemos como crear una réplica de la app **"CALCULADORA"** de iOS 12 con Swift 5 (actualizado desde Swfit 4) y Xcode 10.
 
 En este tutorial aprenderás a crear un app para iPhone y iPad desde cero:
 
@@ -25,16 +25,16 @@ En este tutorial aprenderás a crear un app para iPhone y iPad desde cero:
 * Y encima será compatible con iPhone y iPad (2 en 1! Con una única implementación).
 
 ## Videotutorial
-[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 1) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/6HMGRW0C70I/0.jpg)](https://www.youtube.com/watch?v=6HMGRW0C70I)
-[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/8z8u0Nw0VZI/0.jpg)](https://www.youtube.com/watch?v=8z8u0Nw0VZI)
-[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 3) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/kG1W1ntDdhI/0.jpg)](https://www.youtube.com/watch?v=kG1W1ntDdhI)
-[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 4) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/WRmNTxT5Kfk/0.jpg)](https://youtu.be/WRmNTxT5Kfk)
-[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 5) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/BKF_BoB-E8E/0.jpg)](https://youtu.be/BKF_BoB-E8E)
-[![Tutorial Swift 4: Como crear la app calculadora de iOS 12 (Parte 6) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/9hlkOcS6xTE/0.jpg)](https://youtu.be/9hlkOcS6xTE)
+[![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 1) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/6HMGRW0C70I/0.jpg)](https://www.youtube.com/watch?v=6HMGRW0C70I)
+[![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/8z8u0Nw0VZI/0.jpg)](https://www.youtube.com/watch?v=8z8u0Nw0VZI)
+[![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 3) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/kG1W1ntDdhI/0.jpg)](https://www.youtube.com/watch?v=kG1W1ntDdhI)
+[![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 4) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/WRmNTxT5Kfk/0.jpg)](https://youtu.be/WRmNTxT5Kfk)
+[![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 5) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/BKF_BoB-E8E/0.jpg)](https://youtu.be/BKF_BoB-E8E)
+[![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 6) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/9hlkOcS6xTE/0.jpg)](https://youtu.be/9hlkOcS6xTE)
 
 ## Requisitos
-* [Xcode](https://developer.apple.com/xcode/) 10.1
-* Swift 4
+* [Xcode](https://developer.apple.com/xcode/) 10.2
+* Swift 5
 * iOS 12.x o superior (Compatible con iPhone y iPad)
 
 ## Recursos

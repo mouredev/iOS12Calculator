@@ -291,6 +291,9 @@ final class HomeViewController: UIViewController {
     
     // Limpia los valores
     private func clear() {
+        if operation == .none {
+            total = 0
+        }
         operation = .none
         operatorAC.setTitle("AC", for: .normal)
         if temp != 0 {

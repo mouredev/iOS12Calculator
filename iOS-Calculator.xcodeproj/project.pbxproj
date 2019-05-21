@@ -216,6 +216,7 @@
 					};
 					ACCD405121BD399F007D15E3 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 						TestTargetID = ACCD403D21BD399D007D15E3;
 					};
 				};
@@ -429,7 +430,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mouredev.iOS-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -447,7 +448,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mouredev.iOS-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -466,7 +467,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mouredev.iOS-CalculatorTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS-Calculator.app/iOS-Calculator";
 			};
@@ -486,7 +487,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mouredev.iOS-CalculatorTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iOS-Calculator.app/iOS-Calculator";
 			};
