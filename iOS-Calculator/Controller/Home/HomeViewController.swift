@@ -243,7 +243,7 @@ final class HomeViewController: UIViewController {
     @IBAction func numberDecimalAction(_ sender: UIButton) {
         
         let currentTemp = auxTotalFormatter.string(from: NSNumber(value: temp))!
-        if !operating && currentTemp.count >= kMaxLength {
+        if resultLabel.text?.contains(kDecimalSeparator) ?? false || (!operating && currentTemp.count >= kMaxLength) {
             return
         }
         
