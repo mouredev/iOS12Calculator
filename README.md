@@ -1,7 +1,7 @@
-# COMO crear una APP 🔢 CALCULADORA en Swift 5 con Xcode 10 e iOS 12 | Español | MoureDev by Brais Moure
-[![Xcode](https://img.shields.io/badge/Xcode-10.2-blue.svg?longCache=true&style=popout-square)]()
-[![Swift](https://img.shields.io/badge/Swift-5-orange.svg?longCache=true&style=popout-square)]()
-[![iOS](https://img.shields.io/badge/iOS-12.x+-lightgray.svg?longCache=true&style=popout-square)]()
+# COMO crear una APP 🔢 CALCULADORA en Swift 5 con Xcode 11 e iOS 13 | Español | MoureDev by Brais Moure
+[![Xcode](https://img.shields.io/badge/Xcode-11.2-blue.svg?longCache=true&style=popout-square)]()
+[![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg?longCache=true&style=popout-square)]()
+[![iOS](https://img.shields.io/badge/iOS-13.x+-lightgray.svg?longCache=true&style=popout-square)]()
 
 **`¡HOLA HACKERMEN! 👋🏼`**
 
@@ -12,7 +12,7 @@ Soy Brais Moure, desarrollador de software freelance. Comparto tutoriales sobre 
 Si te interesa el desarrollo de apps **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Puedes hacerlo aquí 👈🏼](https://www.youtube.com/channel/UCxPD7bsocoAMq8Dj18kmGyQ?sub_confirmation=1)
 
 ## Descripción
-Tutorial en el que aprenderemos como crear una réplica de la app **"CALCULADORA"** de iOS 12 con Swift 5 (actualizado desde Swfit 4) y Xcode 10.
+Tutorial en el que aprenderemos como crear una réplica de la app **"CALCULADORA"** de iOS 12 con Swift 5.1 (actualizado desde Swfit 4) y Xcode 11.
 
 En este tutorial aprenderás a crear un app para iPhone y iPad desde cero:
 
@@ -33,9 +33,9 @@ En este tutorial aprenderás a crear un app para iPhone y iPad desde cero:
 [![Cómo CREAR una APP CALCULADORA para iOS con Swift 5 y Xcode (Parte 6) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/9hlkOcS6xTE/0.jpg)](https://youtu.be/9hlkOcS6xTE)
 
 ## Requisitos
-* [Xcode](https://developer.apple.com/xcode/) 10.2
-* Swift 5
-* iOS 12.x o superior (Compatible con iPhone y iPad)
+* [Xcode](https://developer.apple.com/xcode/) 11.2
+* Swift 5.1
+* iOS 13.x o superior (Compatible con iPhone y iPad)
 
 ## Recursos
 * [Cómo crear un proyecto iOS en Xcode](https://youtu.be/mdrSGhNeOwQ)
@@ -57,4 +57,4 @@ Si te gusta el contenido, **comparte**, **suscríbete** y **muéstrame tu dedo d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BraisMoure-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/braismoure/)
 
 ### Autor
-*Brais Moure. © 2018-2019*
+*Brais Moure. © 2018-2020*
